@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MADDS — Placement Swarm</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="shell">
+  <header>
+    <div>
+      <div class="eyebrow">AI PLACEMENT INTELLIGENCE</div>
+      <h1>MADDS</h1>
+      <p>Multi-Agent Due Diligence Swarm</p>
+    </div>
+    <span id="status" class="pill">Ready</span>
+  </header>
+
+  <section class="grid">
+    <div class="panel">
+      <h2>Job Description</h2>
+      <textarea id="jd" placeholder="Paste the complete job description..."></textarea>
+    </div>
+    <div class="panel">
+      <h2>Resume</h2>
+      <textarea id="resume" placeholder="Paste your resume text..."></textarea>
+    </div>
+  </section>
+
+  <button id="run">Run Placement Swarm</button>
+
+  <section id="results" class="hidden">
+    <div class="metrics">
+      <div class="metric"><span>Skill evidence coverage</span><strong id="coverage">-</strong></div>
+      <div class="metric"><span>Agents completed</span><strong id="agents">-</strong></div>
+    </div>
+
+    <div id="cards"></div>
+  </section>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

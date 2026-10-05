@@ -1,0 +1,32 @@
+Job Description
+Project Role : Full Stack Engineer
+Project Role Description : Responsible for developing and/or engineering the end-to-end features of a system, from user experience to backend code. Use development skills to deliver innovative solutions that help our clients improve the services they provide. Leverage new technologies that can be applied to solve challenging business problems with a cloud first and agile mindset.
+Must have skills : Python Frameworks, Multiplatform Application Development, Microsoft Front End Development (FED)
+Good to have skills : NA
+Minimum 3 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary:
+As a Full Stack Engineer, a typical day involves designing, building, and refining comprehensive system features that span from the user interface to the backend infrastructure. This role requires actively engaging in the entire development lifecycle, ensuring seamless integration and functionality. The engineer collaborates with various teams to implement innovative solutions that enhance client services, while continuously exploring and applying emerging technologies. Embracing a cloud-first and agile approach, the workday is dynamic and focused on delivering high-quality, scalable software that addresses complex business challenges effectively.
+
+Roles & Responsibilities:
+- Expected to perform independently and become an SME.
+- Required active participation/contribution in team discussions.
+- Contribute in providing solutions to work related problems.
+- Collaborate with cross-functional teams to ensure alignment of project goals and deliverables.
+- Maintain and improve existing systems by identifying areas for enhancement and implementing necessary changes.
+- Document development processes, code changes, and system configurations to support knowledge sharing and future maintenance.
+- Assist junior team members by providing guidance and support to foster their professional growth.
+
+Professional & Technical Skills:
+- Must To Have Skills: Proficiency in Python Frameworks, Multiplatform Application Development, Microsoft Front End Development (FED).
+- Strong experience in developing both client-side and server-side components to create cohesive applications.
+- Familiarity with cloud computing platforms and services to deploy and manage scalable applications.
+- Ability to write clean, maintainable, and efficient code following best practices and coding standards.
+- Experience with version control systems to manage codebase and collaborate effectively with team members.
+- Understanding of agile methodologies to adapt to changing requirements and deliver iterative improvements.
+
+Additional Information:
+- The candidate should have minimum 3 years of experience in Python Frameworks.
+- This position is based at our Gurugram office.
+- A 15 years full time education is required.

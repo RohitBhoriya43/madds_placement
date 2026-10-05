@@ -1,0 +1,12 @@
+services:
+  madds:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      APP_NAME: MADDS Placement Swarm
+      ENV: docker
+      LLM_PROVIDER: ${LLM_PROVIDER:-mock}
+      OLLAMA_BASE_URL: ${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-llama3.2:3b}
+      MAX_TEXT_LENGTH: ${MAX_TEXT_LENGTH:-30000}

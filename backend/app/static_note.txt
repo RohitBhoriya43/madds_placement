@@ -1,0 +1,1 @@
+Frontend static files are mounted by main.py.
